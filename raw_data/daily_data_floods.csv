@@ -1,0 +1,487 @@
+Name, StationType, County, MaxTemperature, MinTemperature, Precipitation
+LELAND BOWMAN LOCK, COOP, Vermilion Parish, 87, 78, 0.00
+LUTCHER, COOP, Saint James Parish, M, M, 0.00
+SLIDELL, COOP, Saint Tammany Parish, 85, 76, 0.00
+LAKE CHARLES 7 NW, COOP, Calcasieu Parish, M, M, 1.04
+GRAND ISLE, COOP, Jefferson Parish, M, M, 0.00
+SALT POINT, WBAN, Saint Mary Parish, M, M, M
+BOOTHVILLE ASOS, WBAN, Plaquemines Parish, 85, 74, 0.00
+GALLIANO, COOP, Lafourche Parish, 85, 77, 0.00
+MORGAN CITY, COOP, Saint Mary Parish, 84, 73, 0.00
+ROCKEFELLER WL REFUGE, COOP, Cameron Parish, 83, 76, 0.00
+FRANKLIN 3 NW, COOP, Saint Mary Parish, 87, 71, 0.20
+HACKBERRY 8 SSW, COOP, Cameron Parish, 85, 79, 0.06
+NAPOLEONVILLE, COOP, Assumption Parish, M, M, 0.00
+JEANERETTE 5 NW, COOP, Iberia Parish, 88, 73, 0.00
+ABBEVILLE, COOP, Vermilion Parish, M, M, T
+LAKE ARTHUR 7 SW, COOP, Cameron Parish, 85, 77, 0.00
+NEW IBERIA AIRPORT - ACADIANA REGIONAL, WBAN, Iberia Parish, 88, 70, 0.47
+RESERVE, COOP, Saint John the Baptist Parish, M, M, M
+CLINTON 5 SE, COOP, East Feliciana Parish, 87, 75, 1.19
+BEAVER FIRE TOWER, COOP, Evangeline Parish, M, M, 1.27
+OAKDALE, COOP, Allen Parish, M, M, M
+DE RIDDER, COOP, Beauregard Parish, 86, 69, 0.16
+BUNKIE, COOP, Avoyelles Parish, 89, 69, 0.95
+MARKSVILLE, COOP, Avoyelles Parish, M, M, 0.81
+LEESVILLE, COOP, Vernon Parish, 89, 69, 0.27
+LSU DEAN LEE RES. STA., COOP, Rapides Parish, 87, 69, 0.77
+ALEXANDRIA ESLER FIELD, WBAN, Rapides Parish, 77, 67, 2.44
+BOYCE 3 WNW, COOP, Rapides Parish, 73, 64, 2.82
+PEASON RIDGE RANGE, WBAN, Sabine Parish, 77, 67, 3.39
+JONESVILLE LOCKS, COOP, Catahoula Parish, 88, 71, 0.75
+ST. JOSEPH 3 N, COOP, Tensas Parish, 92, 67, 0.68
+LOGANSPORT, COOP, De Soto Parish, M, M, 1.08
+WINNSBORO 5 SSE, COOP, Franklin Parish, 92, 65, 2.91
+COLUMBIA LOCK, COOP, Caldwell Parish, 89, 66, 7.10
+BIENVILLE 3 NE, COOP, Bienville Parish, 73, 66, 9.00
+SAILES FIRE TOWER, COOP, Bienville Parish, M, M, 2.43
+KEITHVILLE, COOP, Caddo Parish, M, M, 4.50
+TALLULAH, COOP, Madison Parish, 88, 69, 2.40
+KORAN, COOP, Bossier Parish, M, M, 0.53
+RED RIVER RESEARCH STATION, COOP, Bossier Parish, 81, 70, 2.09
+SHREVEPORT AP, WBAN, Caddo Parish, 77, 67, 4.18
+MONROE REGIONAL AP, WBAN, Ouachita Parish, 73, 63, 1.89
+MONROE DELTA CC, COOP, Ouachita Parish, M, M, 1.47
+CALHOUN 2 N, COOP, Ouachita Parish, 87, 66, 4.21
+MINDEN, COOP, Webster Parish, 83, 69, 2.48
+SHREVEPORT DOWNTOWN AP, WBAN, Caddo Parish, 78, 71, 1.54
+ARCADIA, COOP, Bienville Parish, M, M, 2.77
+OAK RIDGE, COOP, Morehouse Parish, M, M, M
+MOORINGSPORT 1 N, COOP, Caddo Parish, 80, 70, 0.00
+FARMERVILLE, COOP, Union Parish, 86, 67, 1.35
+HOMER 1N, COOP, Claiborne Parish, 82, 67, 3.15
+LAKE PROVIDENCE, COOP, East Carroll Parish, 83, 68, 1.70
+OAK GROVE, COOP, West Carroll Parish, M, M, 0.75
+PLAIN DEALING, COOP, Bossier Parish, M, M, 0.42
+SPRINGHILL, COOP, Webster Parish, M, M, 0.32
+BAKER, COOP, East Baton Rouge Parish, M, M, 0.00
+VIDALIA NO 2, COOP, Concordia Parish, M, M, 0.80
+ST MARTINVILLE 3 SW, COOP, Saint Martin Parish, 85, 74, 0.00
+JENA, COOP, La Salle Parish, 87, 66, 0.99
+BATON ROUGE CONCORD, COOP, East Baton Rouge Parish, M, M, 0.00
+SHREVEPORT DOWNTOWN, COOP, Caddo Parish, M, M, 2.49
+RAYVILLE, COOP, Richland Parish, 89, 69, 1.67
+MARRERO 9 SSW, COOP, Jefferson Parish, 89, 74, 0.00
+RED RIVER LOCK #1, COOP, Catahoula Parish, M, M, M
+LACOMBE, COOP, Saint Tammany Parish, 85, 77, M
+PONCHATOULA 4 E, COOP, Tangipahoa Parish, M, M, 0.00
+LEESVILLE 6 SSW, COOP, Vernon Parish, M, M, 0.85
+ZWOLLE 2 NW, COOP, Sabine Parish, M, M, 1.03
+RED RIVER LOCK # 2, COOP, Rapides Parish, M, M, 1.37
+MANY 9 WSW, COOP, Sabine Parish, M, M, 0.45
+MOSS BLUFF, COOP, Calcasieu Parish, M, M, 0.54
+ALEXANDRIA 5 SSE, COOP, Rapides Parish, 76, 66, 2.60
+DRY CREEK 8NW, COOP, Beauregard Parish, M, M, 1.38
+KAPLAN, COOP, Vermilion Parish, M, M, 0.00
+MOUNT HERMON 2W, COOP, Washington Parish, M, M, 0.43
+SUN, COOP, Saint Tammany Parish, M, M, 0.00
+NEW ORLEANS AP, WBAN, Jefferson Parish, 87, 71, 0.81
+NEW ORLEANS LAKEFRONT AP, WBAN, Orleans Parish, 90, 74, 0.83
+NEW ORLEANS AUDUBON, WBAN, Orleans Parish, 88, 70, 0.47
+CONVENT 2S, COOP, Saint James Parish, M, M, 0.00
+BELL CITY 13 SW, COOP, Cameron Parish, M, M, 0.00
+WEST MONROE, COOP, Ouachita Parish, M, M, 3.00
+TERRYTOWN 3S, COOP, Jefferson Parish, 88, 76, 0.00
+JAMESTOWN, COOP, Bienville Parish, M, M, 1.80
+BENTON 5E, COOP, Bossier Parish, 80, 67, 1.79
+SLIDELL AP, WBAN, Saint Tammany Parish, 86, 68, T
+NORWOOD, COOP, East Feliciana Parish, M, M, 0.00
+TALLULAH VICKSBURG REGIONAL AP, WBAN, Madison Parish, 72, 66, 6.24
+ALEXANDRIA INTL AP, WBAN, Rapides Parish, 75, 65, 2.17
+ALEXANDRIA, COOP, Rapides Parish, 88, 70, 0.72
+NEW ORLEANS ALVIN CALLENDER FIELD, WBAN, Jefferson Parish, M, M, 0.00
+THIBODAUX 4 SE, COOP, Lafourche Parish, 88, 74, 0.00
+HODGES GARDENS, COOP, Sabine Parish, 84, 67, 1.30
+TALISHEEK, COOP, Saint Tammany Parish, M, M, 0.02
+SHREVEPORT SOUTHERN HILLS, COOP, Caddo Parish, 83, 68, M
+LAFAYETTE 13 SE, WBAN, Saint Martin Parish, 86, 67, 1.15
+MONROE 26 N, WBAN, Union Parish, 72, 61, 1.09
+WINNSBORO 2 SE, COOP, Franklin Parish, 92, 64, 3.50
+ABITA RIVER COVINGTON, COOP, Saint Tammany Parish, M, M, 0.00
+TOLEDO BEND LAKE, COOP, Sabine Parish, 84, 68, 0.95
+Baton Rouge Area, ThreadEx, -, 87, 70, 0.71
+Lake Charles Area, ThreadEx, -, 85, 69, T
+New Orleans Area, ThreadEx, -, 87, 71, 0.81
+Shreveport Area, ThreadEx, -, 77, 67, 4.18
+FORT POLK FULLERTON LANDING STRIP, WBAN, Vernon Parish, 81, 68, 2.75
+SHREVEPORT WFO, COOP, Caddo Parish, 77, 67, 4.25
+MOSS BLUFF 2 NNW, COOP, Calcasieu Parish, 86, 67, 1.47
+GONZALES 4.5 S, CoCoRaHS, Ascension Parish, M, M, T
+KEITHVILLE 1.5 NNW, CoCoRaHS, Caddo Parish, M, M, M
+SCOTT 1.0 N, CoCoRaHS, Lafayette Parish, M, M, M
+CARENCRO 3.9 ENE, CoCoRaHS, Lafayette Parish, M, M, 0.01
+COVINGTON 4.0 NNE, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+ABBEVILLE 1.0 E, CoCoRaHS, Vermilion Parish, M, M, 0.00
+NATCHITOCHES #2, COOP, Natchitoches Parish, 86, 67, 0.94
+DUTCHTOWN #2, COOP, Ascension Parish, M, M, 0.00
+VINTON 5W, COOP, Calcasieu Parish, 88, 72, 1.06
+HAMMOND MUNICIPAL AIRPORT, WBAN, Tangipahoa Parish, M, M, M
+PORT VINCENT 4.4 W, CoCoRaHS, Ascension Parish, M, M, 0.90
+GONZALES 4.0 S, CoCoRaHS, Ascension Parish, M, M, 1.76
+BUNKIE 0.3 WSW, CoCoRaHS, Avoyelles Parish, M, M, 0.83
+BOSSIER CITY 6.7 NNW, CoCoRaHS, Bossier Parish, M, M, 1.70
+BIENVILLE 0.5 S, CoCoRaHS, Bienville Parish, M, M, 4.44
+IOWA 0.9 ESE, CoCoRaHS, Calcasieu Parish, M, M, 0.00
+WESTLAKE 0.7 WNW, CoCoRaHS, Calcasieu Parish, M, M, 0.99
+SULPHUR 2.2 E, CoCoRaHS, Calcasieu Parish, M, M, M
+IOWA 9.7 NNW, CoCoRaHS, Calcasieu Parish, M, M, 0.26
+SHREVEPORT 6.2 S, CoCoRaHS, Caddo Parish, M, M, 4.16
+FERRIDAY 1.1 NNW, CoCoRaHS, Concordia Parish, M, M, 1.32
+SICILY ISLAND 3.3 WNW, CoCoRaHS, Catahoula Parish, M, M, 1.52
+BATON ROUGE 2.7 SW, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+GARDERE 1.2 ENE, CoCoRaHS, East Baton Rouge Parish, M, M, T
+BROWNFIELDS 5.8 NE, CoCoRaHS, East Baton Rouge Parish, M, M, M
+BATON ROUGE 3.5 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+MONTICELLO 3.0 ENE, CoCoRaHS, East Baton Rouge Parish, M, M, M
+SHENANDOAH 1.5 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+BROWNFIELDS 4.0 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+BATON ROUGE 2.5 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+CENTRAL 2.2 SE, CoCoRaHS, East Baton Rouge Parish, M, M, 0.40
+LSU, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+BATON ROUGE 4.3 S, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+INNISWOLD 2.8 S, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+ZACHARY 0.9 WSW, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+WINNSBORO 5.3 NNE, CoCoRaHS, Franklin Parish, M, M, 5.43
+SHREVEPORT 3.2 ESE, CoCoRaHS, Caddo Parish, M, M, 1.97
+BOSSIER CITY 8.2 NNW, CoCoRaHS, Bossier Parish, M, M, 3.59
+ST. BERNARD 2.7 E, CoCoRaHS, Saint Bernard Parish, M, M, M
+CHAUVIN 4.9 N, CoCoRaHS, Terrebonne Parish, M, M, 0.00
+CHAUVIN 1.0 SSW, CoCoRaHS, Terrebonne Parish, M, M, 0.28
+HOUMA 6.5 WNW, CoCoRaHS, Terrebonne Parish, M, M, 0.00
+COCODRIE 6 N, COOP, Terrebonne Parish, M, M, M
+Monroe Area, ThreadEx, -, 73, 63, 1.89
+Natchitoches Area, ThreadEx, -, 86, 67, 0.94
+Tallulah-Vicksburg Area, ThreadEx, -, 72, 66, 6.24
+SHREVEPORT 6.3 S, CoCoRaHS, Caddo Parish, M, M, M
+WELSH 0.7 W, CoCoRaHS, Jefferson Davis Parish, M, M, 0.08
+MARRERO 1.9 E, CoCoRaHS, Jefferson Parish, M, M, 0.03
+RUSTON 5.5 NNW, CoCoRaHS, Lincoln Parish, M, M, 6.75
+DENHAM SPRINGS 6.8 N, CoCoRaHS, Livingston Parish, M, M, M
+DENHAM SPRINGS 4.1 NE, CoCoRaHS, Livingston Parish, M, M, 0.00
+BASTROP 1.0 SSE, CoCoRaHS, Morehouse Parish, M, M, 1.15
+SWARTZ 2.0 SSW, CoCoRaHS, Ouachita Parish, M, M, 1.14
+MONROE 1.9 NNW, CoCoRaHS, Ouachita Parish, M, M, 1.16
+MONROE 2.4 WNW, CoCoRaHS, Ouachita Parish, M, M, 1.87
+MONROE 3.2 SSE, CoCoRaHS, Ouachita Parish, M, M, 1.53
+CALHOUN 4.3 SSE, CoCoRaHS, Ouachita Parish, M, M, 4.21
+NEW ORLEANS 3.6 SW, CoCoRaHS, Orleans Parish, M, M, 0.00
+NEW ROADS 2.7 ESE, CoCoRaHS, Pointe Coupee Parish, M, M, 0.20
+GRAMERCY 0.4 NW, CoCoRaHS, Saint James Parish, M, M, 0.00
+GRAND COTEAU 2.7 E, CoCoRaHS, Saint Landry Parish, M, M, 0.00
+ST. MARTINVILLE 0.2 S, CoCoRaHS, Saint Martin Parish, M, M, 0.00
+SLIDELL 2.2 NE, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+ABITA SPRINGS 2.2 SSW, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+LACOMBE 1.4 N, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+ABITA SPRINGS 1.9 NE, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+HAMMOND 2.3 WSW, CoCoRaHS, Tangipahoa Parish, M, M, 0.01
+TICKFAW 2.0 SSW, CoCoRaHS, Tangipahoa Parish, M, M, M
+GRAY 0.5 ENE, CoCoRaHS, Terrebonne Parish, M, M, M
+ROCKY BRANCH 1.3 W, CoCoRaHS, Union Parish, M, M, 1.30
+KAPLAN 1.6 SSE, CoCoRaHS, Vermilion Parish, M, M, 0.00
+PIONEER 0.3 WSW, CoCoRaHS, West Carroll Parish, M, M, 0.60
+FRANKLINTON 0.4 ENE, CoCoRaHS, Washington Parish, M, M, 0.00
+PLAIN DEALING 3.3 ESE, CoCoRaHS, Bossier Parish, M, M, 0.35
+LAKE CHARLES 4.8 SSE, CoCoRaHS, Calcasieu Parish, M, M, M
+BATON ROUGE 1.4 WSW, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+SLIDELL 0.2 SE, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+WAKEFIELD 0.9 WNW, CoCoRaHS, West Feliciana Parish, M, M, 0.24
+MINDEN 2.2 NE, CoCoRaHS, Webster Parish, M, M, 2.33
+BATON ROUGE 5.3 S, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+BIG BRANCH NWR LOUISIANA, RAWS, Saint Tammany Parish, 87, 67, M
+CANEY - FTS LOUISIANA, RAWS, Claiborne Parish, 74, 63, M
+CATAHOULA - FTS LOUISIANA, RAWS, Grant Parish, 74, 66, M
+EVANGELINE/GARDNER LOUISIANA, RAWS, Rapides Parish, 76, 66, M
+GUM SPRINGS LOUISIANA, RAWS, Winn Parish, 73, 66, M
+KISATCHIE - FTS LOUISIANA, RAWS, Natchitoches Parish, 75, 66, M
+SABINE LOUISIANA, RAWS, Cameron Parish, 85, 73, M
+VERNON LOUISIANA, RAWS, Vernon Parish, 78, 66, M
+RUSTON 1.6 NW, CoCoRaHS, Lincoln Parish, M, M, 5.66
+COUSHATTA 1.4 NE, CoCoRaHS, Red River Parish, M, M, M
+NATCHITOCHES 4.8 WNW, CoCoRaHS, Natchitoches Parish, M, M, 1.08
+MANDEVILLE 3.1 NNW, CoCoRaHS, Saint Tammany Parish, M, M, M
+ADDIS 1.7 N, CoCoRaHS, West Baton Rouge Parish, M, M, 0.00
+MADISONVILLE 3.2 NNW, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+LAKE CHARLES 11.5 SSW, CoCoRaHS, Cameron Parish, M, M, 0.11
+PLEASANT HILL 10.2 SE, CoCoRaHS, Sabine Parish, M, M, 0.50
+ST. JOSEPH 5.8 NNE, CoCoRaHS, Tensas Parish, M, M, M
+PONCHATOULA 4.9 E, CoCoRaHS, Tangipahoa Parish, M, M, 0.00
+BATON ROUGE 3.0 SSE, CoCoRaHS, East Baton Rouge Parish, M, M, M
+COLUMBIA 4.1 NNW, CoCoRaHS, Caldwell Parish, M, M, 7.24
+BATON ROUGE 6.2 ESE, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+NEW ORLEANS 2.1 ENE, CoCoRaHS, Orleans Parish, M, M, M
+TAYLORTOWN, COOP, Bossier Parish, M, M, 1.49
+BLANCHARD, COOP, Caddo Parish, 75, 68, 1.31
+DONALDSONVILLE 4 SW, COOP, Assumption Parish, 87, 73, 0.00
+BAYOU SORREL LOCK, COOP, Iberville Parish, M, M, 0.00
+LAKE CHARLES REGIONAL AP, WBAN, Calcasieu Parish, 85, 69, T
+GONZALES, COOP, Ascension Parish, M, M, 0.00
+CARVILLE 2 SW, COOP, Iberville Parish, 83, 71, 0.10
+LAFAYETTE REGIONAL AP, WBAN, Lafayette Parish, 88, 68, 0.57
+LAFAYETTE, COOP, Lafayette Parish, 87, 73, 0.00
+CROWLEY 2 NE, COOP, Acadia Parish, 85, 76, 0.00
+JENNINGS, COOP, Jefferson Davis Parish, 87, 76, 0.02
+LAKE CHARLES PORT, COOP, Calcasieu Parish, M, M, 0.33
+SULPHUR, COOP, Calcasieu Parish, M, M, 0.06
+OLD TOWN BAY, COOP, Calcasieu Parish, M, M, 1.35
+LAKE CHARLES 2 N, COOP, Calcasieu Parish, M, M, 0.43
+PLAQUEMINE 2 N, COOP, Iberville Parish, M, M, 0.00
+BAYOU MANCHAC POINT, COOP, East Baton Rouge Parish, M, M, M
+BATON ROUGE SHERWOOD, COOP, East Baton Rouge Parish, M, M, 0.00
+LSU BEN-HUR FARM, COOP, East Baton Rouge Parish, 89, 73, 0.00
+ABITA SPRINGS FIRE TOWER, COOP, Saint Tammany Parish, M, M, M
+BATON ROUGE, COOP, West Baton Rouge Parish, 88, 76, M
+GRAND COTEAU, COOP, Saint Landry Parish, 85, 68, 0.50
+ABITA SPRINGS 1 SW, COOP, Saint Tammany Parish, M, M, 0.00
+DENHAM SPRINGS, COOP, Livingston Parish, M, M, 0.00
+PORT ALLEN, COOP, West Baton Rouge Parish, M, M, 0.00
+OPELOUSAS, COOP, Saint Landry Parish, M, M, 0.00
+LIVINGSTON, COOP, Livingston Parish, M, M, 0.00
+BATON ROUGE METRO AP, WBAN, East Baton Rouge Parish, 87, 70, 0.71
+OBERLIN FIRE TOWER, COOP, Allen Parish, 86, 69, 0.60
+NEW ROADS 5 NE, COOP, Pointe Coupee Parish, 84, 70, 0.20
+VILLE PLATTE, COOP, Evangeline Parish, M, M, 0.27
+PINE GROVE FIRE TOWER, COOP, Saint Helena Parish, M, M, M
+OAKNOLIA 2N, COOP, East Feliciana Parish, M, M, 0.00
+ST. FRANCISVILLE, COOP, West Feliciana Parish, M, M, 0.00
+LELAND BOWMAN LOCK, COOP, Vermilion Parish, 89, 67, 0.00
+LUTCHER, COOP, Saint James Parish, M, M, 0.00
+SLIDELL, COOP, Saint Tammany Parish, 86, 70, 0.00
+LAKE CHARLES 7 NW, COOP, Calcasieu Parish, M, M, M
+GRAND ISLE, COOP, Jefferson Parish, M, M, M
+SALT POINT, WBAN, Saint Mary Parish, 86, 73, 0.00
+BOOTHVILLE ASOS, WBAN, Plaquemines Parish, 85, 74, T
+GALLIANO, COOP, Lafourche Parish, 85, 72, 0.00
+MORGAN CITY, COOP, Saint Mary Parish, 86, 71, 1.73
+ROCKEFELLER WL REFUGE, COOP, Cameron Parish, 85, 75, 0.00
+FRANKLIN 3 NW, COOP, Saint Mary Parish, 86, 72, 0.04
+HACKBERRY 8 SSW, COOP, Cameron Parish, 85, 79, 0.00
+NAPOLEONVILLE, COOP, Assumption Parish, M, M, 0.06
+JEANERETTE 5 NW, COOP, Iberia Parish, 87, 72, 0.12
+ABBEVILLE, COOP, Vermilion Parish, M, M, 0.00
+LAKE ARTHUR 7 SW, COOP, Cameron Parish, 86, 74, 0.00
+NEW IBERIA AIRPORT - ACADIANA REGIONAL, WBAN, Iberia Parish, 88, 73, T
+DONALDSONVILLE 4 SW, COOP, Assumption Parish, 88, 71, 0.02
+BAYOU SORREL LOCK, COOP, Iberville Parish, M, M, 0.48
+LAKE CHARLES REGIONAL AP, WBAN, Calcasieu Parish, 87, 73, 0.00
+GONZALES, COOP, Ascension Parish, M, M, 0.06
+CARVILLE 2 SW, COOP, Iberville Parish, 88, 72, 0.30
+LAFAYETTE REGIONAL AP, WBAN, Lafayette Parish, 87, 72, 1.39
+LAFAYETTE, COOP, Lafayette Parish, 88, 72, 0.11
+CROWLEY 2 NE, COOP, Acadia Parish, 87, 73, 0.00
+JENNINGS, COOP, Jefferson Davis Parish, 87, 73, 0.00
+LAKE CHARLES PORT, COOP, Calcasieu Parish, M, M, 0.00
+SULPHUR, COOP, Calcasieu Parish, M, M, 0.00
+OLD TOWN BAY, COOP, Calcasieu Parish, M, M, 0.00
+LAKE CHARLES 2 N, COOP, Calcasieu Parish, M, M, 0.02
+PLAQUEMINE 2 N, COOP, Iberville Parish, M, M, 0.95
+BAYOU MANCHAC POINT, COOP, East Baton Rouge Parish, M, M, M
+BATON ROUGE SHERWOOD, COOP, East Baton Rouge Parish, M, M, 0.04
+LSU BEN-HUR FARM, COOP, East Baton Rouge Parish, 85, 70, 0.02
+ABITA SPRINGS FIRE TOWER, COOP, Saint Tammany Parish, M, M, M
+BATON ROUGE, COOP, West Baton Rouge Parish, 86, 73, M
+GRAND COTEAU, COOP, Saint Landry Parish, 87, 70, 0.07
+DENHAM SPRINGS, COOP, Livingston Parish, M, M, M
+PORT ALLEN, COOP, West Baton Rouge Parish, M, M, 0.30
+OPELOUSAS, COOP, Saint Landry Parish, M, M, 0.00
+LIVINGSTON, COOP, Livingston Parish, M, M, 0.00
+BATON ROUGE METRO AP, WBAN, East Baton Rouge Parish, 89, 68, 2.86
+OBERLIN FIRE TOWER, COOP, Allen Parish, 86, 70, 0.00
+NEW ROADS 5 NE, COOP, Pointe Coupee Parish, 92, 69, 0.08
+VILLE PLATTE, COOP, Evangeline Parish, M, M, 0.00
+PINE GROVE FIRE TOWER, COOP, Saint Helena Parish, M, M, M
+OAKNOLIA 2N, COOP, East Feliciana Parish, M, M, 0.00
+ST. FRANCISVILLE, COOP, West Feliciana Parish, M, M, 0.12
+CLINTON 5 SE, COOP, East Feliciana Parish, 87, 68, 0.00
+BEAVER FIRE TOWER, COOP, Evangeline Parish, M, M, 0.19
+OAKDALE, COOP, Allen Parish, M, M, M
+DE RIDDER, COOP, Beauregard Parish, 86, 60, 0.00
+BUNKIE, COOP, Avoyelles Parish, 89, 72, 0.00
+MARKSVILLE, COOP, Avoyelles Parish, M, M, 0.00
+LEESVILLE, COOP, Vernon Parish, 88, 70, 0.00
+LSU DEAN LEE RES. STA., COOP, Rapides Parish, M, M, M
+ALEXANDRIA ESLER FIELD, WBAN, Rapides Parish, 89, 71, 0.18
+BOYCE 3 WNW, COOP, Rapides Parish, 82, 70, 0.34
+PEASON RIDGE RANGE, WBAN, Sabine Parish, 85, 72, 0.14
+JONESVILLE LOCKS, COOP, Catahoula Parish, 88, 72, 0.00
+ST. JOSEPH 3 N, COOP, Tensas Parish, 90, 72, 0.00
+LOGANSPORT, COOP, De Soto Parish, M, M, 0.00
+WINNSBORO 5 SSE, COOP, Franklin Parish, 89, 68, 0.15
+COLUMBIA LOCK, COOP, Caldwell Parish, 89, 69, 0.24
+BIENVILLE 3 NE, COOP, Bienville Parish, 82, 68, 0.78
+SAILES FIRE TOWER, COOP, Bienville Parish, M, M, 0.00
+KEITHVILLE, COOP, Caddo Parish, M, M, 0.00
+TALLULAH, COOP, Madison Parish, 90, 70, 0.30
+KORAN, COOP, Bossier Parish, M, M, 0.30
+RED RIVER RESEARCH STATION, COOP, Bossier Parish, 86, 71, 0.00
+SHREVEPORT AP, WBAN, Caddo Parish, 82, 67, 0.98
+MONROE REGIONAL AP, WBAN, Ouachita Parish, 84, 69, 0.56
+MONROE DELTA CC, COOP, Ouachita Parish, M, M, 0.38
+CALHOUN 2 N, COOP, Ouachita Parish, 87, 68, 1.31
+MINDEN, COOP, Webster Parish, 86, 69, 0.05
+SHREVEPORT DOWNTOWN AP, WBAN, Caddo Parish, 80, 68, 0.46
+ARCADIA, COOP, Bienville Parish, M, M, 0.00
+OAK RIDGE, COOP, Morehouse Parish, M, M, M
+MOORINGSPORT 1 N, COOP, Caddo Parish, 83, 70, 0.00
+FARMERVILLE, COOP, Union Parish, 88, 68, 0.04
+HOMER 1N, COOP, Claiborne Parish, 86, 70, 0.00
+LAKE PROVIDENCE, COOP, East Carroll Parish, 87, 68, 0.05
+OAK GROVE, COOP, West Carroll Parish, M, M, S
+PLAIN DEALING, COOP, Bossier Parish, M, M, S
+SPRINGHILL, COOP, Webster Parish, M, M, M
+BAKER, COOP, East Baton Rouge Parish, M, M, 0.71
+VIDALIA NO 2, COOP, Concordia Parish, M, M, 0.00
+ST MARTINVILLE 3 SW, COOP, Saint Martin Parish, 86, 72, 0.00
+JENA, COOP, La Salle Parish, 87, 68, 0.00
+BATON ROUGE CONCORD, COOP, East Baton Rouge Parish, M, M, 0.00
+SHREVEPORT DOWNTOWN, COOP, Caddo Parish, M, M, S
+RAYVILLE, COOP, Richland Parish, 90, 69, 0.78
+MARRERO 9 SSW, COOP, Jefferson Parish, 86, 70, M
+RED RIVER LOCK #1, COOP, Catahoula Parish, M, M, 0.20
+LACOMBE, COOP, Saint Tammany Parish, 86, 76, M
+PONCHATOULA 4 E, COOP, Tangipahoa Parish, M, M, 0.00
+LEESVILLE 6 SSW, COOP, Vernon Parish, M, M, 0.00
+ZWOLLE 2 NW, COOP, Sabine Parish, M, M, 0.00
+RED RIVER LOCK # 2, COOP, Rapides Parish, M, M, 0.77
+MANY 9 WSW, COOP, Sabine Parish, M, M, 0.00
+MOSS BLUFF, COOP, Calcasieu Parish, M, M, 0.00
+ALEXANDRIA 5 SSE, COOP, Rapides Parish, 88, 71, 0.00
+DRY CREEK 8NW, COOP, Beauregard Parish, M, M, 0.00
+KAPLAN, COOP, Vermilion Parish, M, M, 0.02
+MOUNT HERMON 2W, COOP, Washington Parish, M, M, 0.00
+SUN, COOP, Saint Tammany Parish, M, M, 0.49
+NEW ORLEANS AP, WBAN, Jefferson Parish, 86, 74, 0.25
+NEW ORLEANS LAKEFRONT AP, WBAN, Orleans Parish, 87, 77, 0.04
+NEW ORLEANS AUDUBON, WBAN, Orleans Parish, 90, 74, 0.09
+CONVENT 2S, COOP, Saint James Parish, M, M, 0.00
+BELL CITY 13 SW, COOP, Cameron Parish, M, M, 0.00
+WEST MONROE, COOP, Ouachita Parish, M, M, 0.30
+TERRYTOWN 3S, COOP, Jefferson Parish, 84, 71, 0.44
+JAMESTOWN, COOP, Bienville Parish, M, M, 0.04
+BENTON 5E, COOP, Bossier Parish, 84, 70, 0.69A
+SLIDELL AP, WBAN, Saint Tammany Parish, 87, 68, 0.00
+NORWOOD, COOP, East Feliciana Parish, M, M, 0.10
+TALLULAH VICKSBURG REGIONAL AP, WBAN, Madison Parish, 87, 67, 0.28
+ALEXANDRIA INTL AP, WBAN, Rapides Parish, 87, 70, 0.52
+ALEXANDRIA, COOP, Rapides Parish, 87, 72, 0.00
+NEW ORLEANS ALVIN CALLENDER FIELD, WBAN, Jefferson Parish, M, M, 0.33
+THIBODAUX 4 SE, COOP, Lafourche Parish, 87, 70, 0.00
+HODGES GARDENS, COOP, Sabine Parish, 87, 71, 0.00
+TALISHEEK, COOP, Saint Tammany Parish, M, M, 0.02
+SHREVEPORT SOUTHERN HILLS, COOP, Caddo Parish, 86, 68, 0.00
+LAFAYETTE 13 SE, WBAN, Saint Martin Parish, 86, 71, 0.08
+MONROE 26 N, WBAN, Union Parish, 82, 67, 0.04
+WINNSBORO 2 SE, COOP, Franklin Parish, 90, 66, 0.10
+ABITA RIVER COVINGTON, COOP, Saint Tammany Parish, M, M, 0.00
+TOLEDO BEND LAKE, COOP, Sabine Parish, 85, 71, 0.00
+Baton Rouge Area, ThreadEx, -, 89, 68, 2.86
+Lake Charles Area, ThreadEx, -, 87, 73, 0.00
+New Orleans Area, ThreadEx, -, 86, 74, 0.25
+Shreveport Area, ThreadEx, -, 82, 67, 0.98
+FORT POLK FULLERTON LANDING STRIP, WBAN, Vernon Parish, 91, 73, 0.03
+SHREVEPORT WFO, COOP, Caddo Parish, 81, 66, 1.78
+MOSS BLUFF 2 NNW, COOP, Calcasieu Parish, 88, 65, 0.13
+GONZALES 4.5 S, CoCoRaHS, Ascension Parish, M, M, 0.02
+KEITHVILLE 1.5 NNW, CoCoRaHS, Caddo Parish, M, M, S
+SCOTT 1.0 N, CoCoRaHS, Lafayette Parish, M, M, 0.28
+CARENCRO 3.9 ENE, CoCoRaHS, Lafayette Parish, M, M, 0.01
+COVINGTON 4.0 NNE, CoCoRaHS, Saint Tammany Parish, M, M, 0.11
+ABBEVILLE 1.0 E, CoCoRaHS, Vermilion Parish, M, M, M
+NATCHITOCHES #2, COOP, Natchitoches Parish, 87, 70, 0.10
+DUTCHTOWN #2, COOP, Ascension Parish, M, M, 0.00
+VINTON 5W, COOP, Calcasieu Parish, 87, 71, 0.00
+HAMMOND MUNICIPAL AIRPORT, WBAN, Tangipahoa Parish, M, M, M
+PORT VINCENT 4.4 W, CoCoRaHS, Ascension Parish, M, M, 0.15
+GONZALES 4.0 S, CoCoRaHS, Ascension Parish, M, M, 0.02
+BUNKIE 0.3 WSW, CoCoRaHS, Avoyelles Parish, M, M, M
+BOSSIER CITY 6.7 NNW, CoCoRaHS, Bossier Parish, M, M, 0.00
+BIENVILLE 0.5 S, CoCoRaHS, Bienville Parish, M, M, 0.00
+IOWA 0.9 ESE, CoCoRaHS, Calcasieu Parish, M, M, 0.00
+WESTLAKE 0.7 WNW, CoCoRaHS, Calcasieu Parish, M, M, 0.00
+SULPHUR 2.2 E, CoCoRaHS, Calcasieu Parish, M, M, 0.00
+IOWA 9.7 NNW, CoCoRaHS, Calcasieu Parish, M, M, 0.00
+SHREVEPORT 6.2 S, CoCoRaHS, Caddo Parish, M, M, 0.00
+FERRIDAY 1.1 NNW, CoCoRaHS, Concordia Parish, M, M, M
+SICILY ISLAND 3.3 WNW, CoCoRaHS, Catahoula Parish, M, M, 0.38
+BATON ROUGE 2.7 SW, CoCoRaHS, East Baton Rouge Parish, M, M, 0.02
+GARDERE 1.2 ENE, CoCoRaHS, East Baton Rouge Parish, M, M, 0.03
+BROWNFIELDS 5.8 NE, CoCoRaHS, East Baton Rouge Parish, M, M, T
+BATON ROUGE 3.5 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.19
+MONTICELLO 3.0 ENE, CoCoRaHS, East Baton Rouge Parish, M, M, M
+SHENANDOAH 1.5 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+BROWNFIELDS 4.0 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+BATON ROUGE 2.5 E, CoCoRaHS, East Baton Rouge Parish, M, M, 0.14
+CENTRAL 2.2 SE, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+LSU, CoCoRaHS, East Baton Rouge Parish, M, M, 0.23
+BATON ROUGE 4.3 S, CoCoRaHS, East Baton Rouge Parish, M, M, 0.01
+INNISWOLD 2.8 S, CoCoRaHS, East Baton Rouge Parish, M, M, 0.05
+ZACHARY 0.9 WSW, CoCoRaHS, East Baton Rouge Parish, M, M, 0.00
+WINNSBORO 5.3 NNE, CoCoRaHS, Franklin Parish, M, M, M
+SHREVEPORT 3.2 ESE, CoCoRaHS, Caddo Parish, M, M, M
+BOSSIER CITY 8.2 NNW, CoCoRaHS, Bossier Parish, M, M, 0.01
+ST. BERNARD 2.7 E, CoCoRaHS, Saint Bernard Parish, M, M, M
+CHAUVIN 4.9 N, CoCoRaHS, Terrebonne Parish, M, M, 0.00
+CHAUVIN 1.0 SSW, CoCoRaHS, Terrebonne Parish, M, M, M
+HOUMA 6.5 WNW, CoCoRaHS, Terrebonne Parish, M, M, 0.70
+COCODRIE 6 N, COOP, Terrebonne Parish, M, M, 0.78
+Monroe Area, ThreadEx, -, 84, 69, 0.56
+Natchitoches Area, ThreadEx, -, 87, 70, 0.10
+Tallulah-Vicksburg Area, ThreadEx, -, 87, 67, 0.28
+SHREVEPORT 6.3 S, CoCoRaHS, Caddo Parish, M, M, 0.00
+WELSH 0.7 W, CoCoRaHS, Jefferson Davis Parish, M, M, T
+MARRERO 1.9 E, CoCoRaHS, Jefferson Parish, M, M, 0.55
+RUSTON 5.5 NNW, CoCoRaHS, Lincoln Parish, M, M, 0.00
+DENHAM SPRINGS 6.8 N, CoCoRaHS, Livingston Parish, M, M, 0.07
+DENHAM SPRINGS 4.1 NE, CoCoRaHS, Livingston Parish, M, M, 0.28
+BASTROP 1.0 SSE, CoCoRaHS, Morehouse Parish, M, M, 0.72
+SWARTZ 2.0 SSW, CoCoRaHS, Ouachita Parish, M, M, 0.22
+MONROE 1.9 NNW, CoCoRaHS, Ouachita Parish, M, M, 1.10
+MONROE 2.4 WNW, CoCoRaHS, Ouachita Parish, M, M, 0.38
+MONROE 3.2 SSE, CoCoRaHS, Ouachita Parish, M, M, 0.60
+CALHOUN 4.3 SSE, CoCoRaHS, Ouachita Parish, M, M, 1.30
+NEW ORLEANS 3.6 SW, CoCoRaHS, Orleans Parish, M, M, M
+NEW ROADS 2.7 ESE, CoCoRaHS, Pointe Coupee Parish, M, M, 0.16
+GRAMERCY 0.4 NW, CoCoRaHS, Saint James Parish, M, M, 0.00
+GRAND COTEAU 2.7 E, CoCoRaHS, Saint Landry Parish, M, M, 0.11
+ST. MARTINVILLE 0.2 S, CoCoRaHS, Saint Martin Parish, M, M, 0.00
+SLIDELL 2.2 NE, CoCoRaHS, Saint Tammany Parish, M, M, M
+ABITA SPRINGS 2.2 SSW, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+LACOMBE 1.4 N, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+ABITA SPRINGS 1.9 NE, CoCoRaHS, Saint Tammany Parish, M, M, 0.10
+HAMMOND 2.3 WSW, CoCoRaHS, Tangipahoa Parish, M, M, 0.00
+TICKFAW 2.0 SSW, CoCoRaHS, Tangipahoa Parish, M, M, M
+GRAY 0.5 ENE, CoCoRaHS, Terrebonne Parish, M, M, M
+ROCKY BRANCH 1.3 W, CoCoRaHS, Union Parish, M, M, M
+KAPLAN 1.6 SSE, CoCoRaHS, Vermilion Parish, M, M, T
+PIONEER 0.3 WSW, CoCoRaHS, West Carroll Parish, M, M, 0.40
+FRANKLINTON 0.4 ENE, CoCoRaHS, Washington Parish, M, M, 0.61
+PLAIN DEALING 3.3 ESE, CoCoRaHS, Bossier Parish, M, M, 0.08
+LAKE CHARLES 4.8 SSE, CoCoRaHS, Calcasieu Parish, M, M, M
+BATON ROUGE 1.4 WSW, CoCoRaHS, East Baton Rouge Parish, M, M, T
+SLIDELL 0.2 SE, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+WAKEFIELD 0.9 WNW, CoCoRaHS, West Feliciana Parish, M, M, 0.12
+MINDEN 2.2 NE, CoCoRaHS, Webster Parish, M, M, 0.00
+BATON ROUGE 5.3 S, CoCoRaHS, East Baton Rouge Parish, M, M, 0.02
+BIG BRANCH NWR LOUISIANA, RAWS, Saint Tammany Parish, 88, 68, M
+CANEY - FTS LOUISIANA, RAWS, Claiborne Parish, 83, 69, M
+CATAHOULA - FTS LOUISIANA, RAWS, Grant Parish, 87, 70, M
+EVANGELINE/GARDNER LOUISIANA, RAWS, Rapides Parish, 88, 70, M
+GUM SPRINGS LOUISIANA, RAWS, Winn Parish, 84, 71, M
+KISATCHIE - FTS LOUISIANA, RAWS, Natchitoches Parish, 85, 71, M
+SABINE LOUISIANA, RAWS, Cameron Parish, 88, 74, M
+VERNON LOUISIANA, RAWS, Vernon Parish, 86, 70, M
+RUSTON 1.6 NW, CoCoRaHS, Lincoln Parish, M, M, 0.15
+COUSHATTA 1.4 NE, CoCoRaHS, Red River Parish, M, M, M
+NATCHITOCHES 4.8 WNW, CoCoRaHS, Natchitoches Parish, M, M, M
+MANDEVILLE 3.1 NNW, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+ADDIS 1.7 N, CoCoRaHS, West Baton Rouge Parish, M, M, 0.10
+MADISONVILLE 3.2 NNW, CoCoRaHS, Saint Tammany Parish, M, M, 0.00
+LAKE CHARLES 11.5 SSW, CoCoRaHS, Cameron Parish, M, M, M
+PLEASANT HILL 10.2 SE, CoCoRaHS, Sabine Parish, M, M, 0.00
+ST. JOSEPH 5.8 NNE, CoCoRaHS, Tensas Parish, M, M, M
+PONCHATOULA 4.9 E, CoCoRaHS, Tangipahoa Parish, M, M, 0.00
+BATON ROUGE 3.0 SSE, CoCoRaHS, East Baton Rouge Parish, M, M, M
+COLUMBIA 4.1 NNW, CoCoRaHS, Caldwell Parish, M, M, 0.28
+BATON ROUGE 6.2 ESE, CoCoRaHS, East Baton Rouge Parish, M, M, M
+NEW ORLEANS 2.1 ENE, CoCoRaHS, Orleans Parish, M, M, 1.00
+TAYLORTOWN, COOP, Bossier Parish, M, M, 0.00
+BLANCHARD, COOP, Caddo Parish, 82, 70, 0.01
