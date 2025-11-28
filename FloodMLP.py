@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+from torchviz import make_dot
 
 class FloodMLP(nn.Module):
     def __init__(self, input_size, dropout = 0.2):
@@ -28,7 +29,8 @@ def main():
     dummy = torch.randn(1, 10)
     model.eval()
     output = model(dummy)
-    torch.onnx.export(model, dummy, "FloodMLP_model.onnx")
+    dot = make_dot(output, params=dict(model.named_parameters()))
+    dot.render("FloodMLP_Structure", format="png", view=False) # Saves as PNG and opens it
 
 if __name__ == "__main__":
     main()
