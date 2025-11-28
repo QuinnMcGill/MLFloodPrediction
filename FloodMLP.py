@@ -1,3 +1,4 @@
+import torch
 import torch.nn as nn
 
 class FloodMLP(nn.Module):
@@ -21,3 +22,13 @@ class FloodMLP(nn.Module):
 
     def forward(self, x):
         return self.model(x)
+
+def main():
+    model = FloodMLP(input_size=10, dropout=0)
+    dummy = torch.randn(1, 10)
+    model.eval()
+    output = model(dummy)
+    torch.onnx.export(model, dummy, "FloodMLP_model.onnx")
+
+if __name__ == "__main__":
+    main()
